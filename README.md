@@ -1,4 +1,4 @@
-# Ulitmate List App
+# React Hangman App
 
 <img src="./images/homepage.png" alt="App picture" width="500px" height="250px">
 
