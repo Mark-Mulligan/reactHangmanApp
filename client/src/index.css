@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-image: url('./images/parchment.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: 'Courgette', cursive;
+}
+
+.title-container {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.title-container h1 {
+  font-size: 4rem;
+}
+
+.btn {
+  font-size: 1.6rem;
+}
+
+.game-difficulty-container {
+  display: inline-block;
+  margin: auto;
+  padding: 10px;
+  border-radius: 15px;;
+}
+
+.difficulty-instruction {
+  font-size: 1.6rem;
+  border-bottom: 1px solid black;
+  padding: 5px;
+}
+
+.difficulty-label {
+  display: inline-block;
+}
+
+.difficultyBtn {
+  display: block;
+  margin: 10px auto;
+}
+
+.game-container {
+  margin-top: 40px;
+}
+
+.score-tracker {
+  font-size: 1.4rem;
+}
+
+.word-blank-container {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.gameboard-letter {
+  margin: 5px;
+  font-size: 3rem;
+  font-weight: 500;
+}
+
+.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.keyboard-btn {
+  margin: 1px;
+  width: 42px;
+  font-size: 1.4rem;
+  padding: 5px;
+} 
+
+.modal-content {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.modal-content p{
+  font-size: 1.1rem;
+}
+
+.modal-header {
+  border: none;
+  padding-bottom: 5px;
+}
+
+.modal-footer {
+  border: none;
+}
