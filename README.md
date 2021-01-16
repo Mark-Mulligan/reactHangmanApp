@@ -27,7 +27,7 @@ https://hangman-react-app.herokuapp.com/
 
 * Step 1: Navigate to the directory you want to store the project. Clone this your repository to your local computer using the command below. 
 ```bash
-git clone https://github.com/MarkMulligan97/readmeGenerator.git
+git clone https://github.com/Mark-Mulligan/reactHangmanApp.git
 ```
 
 * Step 2: Use the command line to navigate to the directory that you cloned the project.
